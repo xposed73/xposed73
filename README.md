@@ -28,7 +28,6 @@ I am a passionate web designer and developer with a strong understanding of fron
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-xposed73-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xposed73/) 
-
 [![Mail Badge](https://img.shields.io/badge/-xposed73-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ndmk.edu@gmail.com) 
 
 
@@ -63,6 +62,6 @@ I am a passionate web designer and developer with a strong understanding of fron
 
 #### Github Stats
 
-![Dhanush github stats](https://github-readme-stats.vercel.app/api?username=xposed73&count_private=true&hide=contribs,prs)
+![Xposed73 github stats](https://github-readme-stats.vercel.app/api?username=xposed73&count_private=true&hide=contribs,prs)
 
 
