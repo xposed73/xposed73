@@ -70,5 +70,3 @@ If you like what I do, consider supporting me on Ko-Fi
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/xposed73)
 
 ---
-
-![snake gif](https://github.com/xposed73/xposed73/blob/output/github-contribution-grid-snake.svg)
