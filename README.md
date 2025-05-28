@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#007acc;">Xposed73</span></h1>
 
 <p align="center">
-  🛡️ Cybersecurity Enthusiast • 🤖 AI Innovator • 📱 Android Wizard • 🌐 Web Alchemist • 🎬 Creative Technologist
+  🛡️ Cybersecurity Enthusiast • 🤖 AI Innovator • 📱 Android Developer • 🌐 Web Designer • 🎬 Creative Technologist
 </p>
 
 ---
