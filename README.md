@@ -87,7 +87,7 @@
 
 ## 🌍 Let's Connect
 
-- 📫 **Reach me via Email:** xposed73@protonmail.com *(example — replace with yours)*
+- 📫 **Reach me via Email:** xposed73@protonmail.com
 - 💬 **Follow my insights on Twitter:** [@xposed73](https://twitter.com/xposed73)
 - 💼 **Connect on LinkedIn:** [Xposed73](https://linkedin.com/in/xposed73)
 
