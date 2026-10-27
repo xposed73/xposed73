@@ -34,18 +34,6 @@ My interests include:
 
 </div>
 
-### `$ ls projects/`
-
-Explore my repositories for security experiments, automation tools, AI projects, and developer utilities.
-
-<div align="center">
-
-<a href="https://github.com/xposed73?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xposed73&repo=REPLACE_WITH_REPO_NAME&theme=github_dark&hide_border=true" alt="Featured repository"/>
-</a>
-
-</div>
-
 ### `$ git stats`
 
 <div align="center">
