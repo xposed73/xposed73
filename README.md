@@ -1,8 +1,5 @@
 <img src="koi/koi.gif" width="256" alt="My GitHub Koi">
 
-
-<h2 align="center">Contribution Activity</h2>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
